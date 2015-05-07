@@ -1,2 +1,2 @@
-# Cool-login-form
+# Cool-login-form :)
 AngularJS and Bootstrap
